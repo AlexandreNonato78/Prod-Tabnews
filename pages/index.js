@@ -2,12 +2,7 @@ function Home() {
     return (
         <div>
             <h1>Meu nome é Alexandre! Olá! </h1>
-            <img
-                src="/workspaces/Prod-Tabnews/pages/MEME4.png"
-                alt="MEME4"
-                width="610"
-                height="430"
-            />
+            <img src="https://photos.google.com/search/_tra_/photo/AF1QipOzMbfnTvWK7U4ENY2vBVZO-UCulDDaXm31eZkl" alt="MEME4" />
         </div>
     );
 }
