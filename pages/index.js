@@ -1,9 +1,9 @@
 function Home() {
     return (
         <div>
-            <h2>Meu nome é Alexandre! Olha que legal esse MEME! </h2>
+            <h1>Meu nome é Alexandre! Olha que legal esse MEME! </h1>
 
-                <img src="https://drive.google.com/file/d/1KM5aQAe-vkeIdnIq-I350zUVEtGNS5X-/view?usp=sharing" alt="MEME4" />
+                <img src="https://drive.google.com/uc?export=download&id=1KM5aQAe-vkeIdnIq-I350zUVEtGNS5X-" alt="MEME4" />
         </div>
     );
 }
